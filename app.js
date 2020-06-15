@@ -1,5 +1,5 @@
                                                           //ASSIGNMENT NO:1
-/*alert("Assalam-o-Alaikum, my name is Amna Zafar");
+/*alert("Assalam-o-Alaikum, my name is saira sial");
 alert("Error! Please enter a valid passward");
 alert("Welcome to js land... \n Happy Coding!");
 alert("Welcome to JS Land...");
@@ -8,9 +8,9 @@ var value="Hello... I can run JS through my web browser's console";
 console.log(value);
 
                                                             //ASSIGNMENT NO:2
-var username="Amna Zafar";
+var username="saira sial";
 alert(username);
-var myName="Amna Zafar";
+var myName="saira sial";
 alert(myName);
 var message="Hello World";
 alert(message);
